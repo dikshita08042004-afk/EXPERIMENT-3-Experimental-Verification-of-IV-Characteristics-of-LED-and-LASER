@@ -16,7 +16,7 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 📚 THEORY
-
+ 
 - **LEDs and LASER diodes** are commonly used sources in optical communication systems for both digital and analog transmission.
 - A **linear electrical-to-optical converter** is essential for intensity modulation and high-quality analog transmission.
 - LEDs exhibit a **linear optical output** with respect to forward current within a specific operating range.
