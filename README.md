@@ -8,12 +8,12 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 ---
 
 ## 🧰 EQUIPMENTS REQUIRED 	Link-B Kit with power supply.
-	FCL-01 & FCL-02.
-	Patch chords.
-	20MHz Dual Channel Oscilloscope.
-	1 MHz Function Generator.
-	1 Meter Fiber Cable.
-	Jumper to Crocodile wires.
+1.	FCL-01 & FCL-02.
+2.Patch chords.
+3.20MHz Dual Channel Oscilloscope.
+4.1 MHz Function Generator.
+5.	1 Meter Fiber Cable.
+6.Jumper to Crocodile wires.
 
 
 
